@@ -162,10 +162,10 @@ function create_config( )
     "core",
     "plugins"
     },
-    sudo_users = {157059515},--Sudo users
-    admins = {},
+    sudo_users = {240870611},--Sudo users
+    admins = {385919496},
     disabled_channels = {},
-    moderation = {data = ''..BeyondTeam..'/data/moderation.json'},
+    moderation = {data = ''..deleteTeam..'/data/moderation.json'},
     info_text = [[*》delete Helper Bot V1.0*
 `》An helper bot of` *delete* `based on` *BDMessenger*
 ]],
